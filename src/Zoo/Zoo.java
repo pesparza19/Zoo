@@ -53,6 +53,7 @@ public class Zoo {
             menu += "2) Create a Lion\n";
             menu += "3) Create a Rabbit\n";
             menu += "4) Create a Dog\n";
+            menu += "6) Create a Mouse\n";
             menu += "8) Print my Zoo\n";
             menu += "9) Exit\n";
 
