@@ -10,6 +10,8 @@ package Zoo;
  * @author Jafet
  */
 public class Dog extends Animal {
+    
+    // Bla Bla Bla
 
     //Constructor
     public Dog(String name, LifeSpan lifeSpan, Animal.Gender gender, float height, float topSpeed, float weight){
