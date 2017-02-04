@@ -1,17 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package Zoo;
 
-/**
- *
- * @author Jafet
- */
 public class Dog extends Animal {
     
     // Bla Bla Bla
+    // My name is Fer!
 
     //Constructor
     public Dog(String name, LifeSpan lifeSpan, Animal.Gender gender, float height, float topSpeed, float weight){
